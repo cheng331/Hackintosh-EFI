@@ -1,5 +1,6 @@
 # Hackintosh-EFI
 This is my own EFI.
+
 Hardware:
 
 | :------: | :------: |

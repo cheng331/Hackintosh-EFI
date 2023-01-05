@@ -3,6 +3,7 @@ This is my own EFI.
 
 Hardware:
 
+｜ Specifications ｜ Detail ｜
 | :------: | :------: |
 | CPU | Intel Core i7-7700 |
 | GPU | Intel(R) HD Graphics 630 |
